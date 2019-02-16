@@ -9,11 +9,11 @@ export default function App() {
   const language = useContext(LanguageContext);
   const theme = useContext(ThemeContext);
     return (
-      <React.Fragment>
+      <div className="wrapper">
         <br />
         <div>{language} and {theme}</div>
-        <h3>test</h3>
+        <h3>Nested Component State test</h3>
         <TestComponent />
-      </React.Fragment>
+      </div>
     );
 }
