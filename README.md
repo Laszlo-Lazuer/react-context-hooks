@@ -9,3 +9,5 @@ Live URL: https://laszlo-lazuer.github.io/react-context-hooks/
 
 
 #### If you pull up the `React` developer tab you will see the hook managed state.
+
+[![Edit hook-context](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/ryn9q6oz6o)
